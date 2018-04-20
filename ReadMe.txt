@@ -31,7 +31,7 @@ Unsplash by Crew - https://unsplash.com/
 
 Fonts
 ------------------------------------------------------
-Font Awesome by Dave Gandy - http://fontawesome.io/
+Font Awesome by Dave Gandy - https://fontawesome.com/
 Google Fonts - https://fonts.google.com/
 
 Resources
