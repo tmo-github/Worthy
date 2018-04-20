@@ -42,4 +42,4 @@ jQuery Appear - by bas2k - https://github.com/bas2k/jquery.appear/
 Modernizr - https://modernizr.com/
 Animate CSS by Daniel T. Eden - https://daneden.github.io/animate.css/
 Isotope Jquery plugin by metafizzy.co - https://isotope.metafizzy.co/
-Backstrech by Scott Robbin - http://www.jquery-backstretch.com/
+Backstrech by Scott Robbin - https://www.jquery-backstretch.com/
